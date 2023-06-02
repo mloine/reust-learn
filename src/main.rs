@@ -51,7 +51,7 @@ fn main() {
     println!(" 128 as a i8 is : {}", 128 as i8);
 
     // 重复之前的例子
-    // 1000 as u8 -> 232
+    // 1000 as u8 -> 232f
     println!("1000 as a u8 is : {}", 1000 as u8);
     // 232 的二进制补码是 -24
     println!(" 232 as a i8 is : {}", 232 as i8);
